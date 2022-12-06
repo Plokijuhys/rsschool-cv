@@ -14,14 +14,14 @@ But the desire to constantly learn does not go away.
 I could have written more about myself, but the deadline is already here.  
 See you later😉  
 🏃‍♂️💨
-***
 
 ## Skills:
 
   * **Work in a CAD systems (SolidWorks, Kompas)**
   * **Reading elrctrical, pneumatic, hydraulic circuit diagrams**
   * **Development of design documentation**
-***
+
+
 ## Code example:
 
 I do not know how to do this, but I think the main purpose of this task is to know
@@ -48,7 +48,6 @@ Thanks for understanding. 🙏
 </html>
 
 ```
-***
 
 ## Education and courses:
 
@@ -57,7 +56,6 @@ Thanks for understanding. 🙏
   * PSU Higher education (In progress)
   * Driver's license
 
-***
 
 ## Languages:
   * Russian - Native 
@@ -65,6 +63,5 @@ Thanks for understanding. 🙏
   * German - A1
   * English - A2+
   
-***  
      
 *Thank you for taking the time to my CV💃*
