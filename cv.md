@@ -56,6 +56,7 @@ Thanks for understanding. 🙏
   * Secondary special education at the College of Mechanical Engineering
   * PSU Higher education (In progress)
   * Driver's license
+
 ***
 
 ## Languages:
